@@ -12,7 +12,6 @@
 }
 
 .título-corpo{
-       align-items: center;
-       flex-direction: row;
+       display: flex;
        justify-content: space-between;
 }
