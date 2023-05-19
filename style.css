@@ -35,6 +35,12 @@
        flex-direction: column;
 }
 
+.imagem {
+       display: flex;
+       align-items: center;
+       justify-content: center;
+}
+
 .p6-p7-p8 { 
        display: flex;
        align-items: center;
@@ -43,10 +49,4 @@
        justify-content: space-around;
        flex-direction: column;
 
-}
-
-.imagem {
-       display: flex;
-       align-items: center;
-       justify-content: center;
 }
