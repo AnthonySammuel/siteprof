@@ -17,6 +17,10 @@
        height: 48px;
 }
 
+body {
+       background-color: #FFEBEB;
+}
+
 .imagem-corpo{}
 
 .div-imagem-p1{
