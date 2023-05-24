@@ -17,8 +17,10 @@
        height: 48px;
 }
 
-body{
+.body{
        background-color: #FFEBEB;
+       margin: 0%;
+       padding: 0%;
 }
 
 .imagem-corpo{}
